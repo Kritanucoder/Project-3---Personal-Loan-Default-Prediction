@@ -1,4 +1,4 @@
-# Project-3---Personal-Loan-Default-Prediction
+![Screenshot 2025-06-21 210053](https://github.com/user-attachments/assets/0142a585-57a9-4dbc-a6b8-aa94a5ecd13f)# Project-3---Personal-Loan-Default-Prediction
 This repository presents a supervised machine learning pipeline to predict personal loan subscription using customer demographic and financial data. Leveraging a publicly available banking dataset, the workflow comprises:
 
 Exploratory Data Analysis (EDA):
@@ -21,3 +21,7 @@ The CatBoost Classifier achieved the highest overall accuracy and F1 score, demo
 
 This notebook offers a clear, reproducible template for binary classification tasks on structured tabular data, illustrating best practices in EDA, model training, hyperparameter tuning, and performance visualization using Python libraries (Pandas, Scikit‑learn, CatBoost, LightGBM, Matplotlib, Seaborn).
 
+F1 Score comparison
+![Screenshot 2025-06-21 210053](https://github.com/user-attachments/assets/d0133ad5-a42a-41b7-b674-d8624ccd3e50)
+Accuracy Score comparison
+![Screenshot 2025-06-21 210046](https://github.com/user-attachments/assets/233eed78-26a3-434c-aa01-f88e2f7d1aac)

@@ -1,4 +1,4 @@
-![Screenshot 2025-06-21 210053](https://github.com/user-attachments/assets/0142a585-57a9-4dbc-a6b8-aa94a5ecd13f)# Project-3---Personal-Loan-Default-Prediction
+# Project-3---Personal-Loan-Default-Prediction
 This repository presents a supervised machine learning pipeline to predict personal loan subscription using customer demographic and financial data. Leveraging a publicly available banking dataset, the workflow comprises:
 
 Exploratory Data Analysis (EDA):
